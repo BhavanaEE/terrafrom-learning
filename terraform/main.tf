@@ -1,3 +1,3 @@
 resource "everest_file" "myfile" {
-    path = "asdacad"
+    path = "../hello.txt"
 }
